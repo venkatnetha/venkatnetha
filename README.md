@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Venkatesh K and Welcome to my Github Profile.
 
 
+[<img src="https://user-images.githubusercontent.com/38311122/207119230-19861f06-7d1a-495e-8d3d-5ab0c56e6309.png">](https://www.linkedin.com/in/venkateshk-k-24247890/)
 
 
 - 🔭 I’m currently working on Solidity smart contracts in particular and Blockchain(Ethereum) in general. 
@@ -12,3 +13,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am into software developement for the past 14 years and I seldom find a blockchain engineer with same experience. I feel pretty old but my neurons are still super active.
 
+    
+    
+                                                                
+                                                                
+                                                                
+                                                        The Learning Never ends! 😊
