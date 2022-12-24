@@ -3,7 +3,7 @@
 
 [<img src="https://user-images.githubusercontent.com/38311122/207119230-19861f06-7d1a-495e-8d3d-5ab0c56e6309.png">](https://www.linkedin.com/in/venkateshk-k-24247890/)
 
-
+ 🔭  With over 14 Years of software development experience and 4 years of Building on Ethereum blockchain, I am a good mix of web2 and web3 world.
 - 🔭 I’m currently working on Solidity smart contracts in particular and Blockchain(Ethereum) in general. 
 - 🌱 I’m currently learning Zero Knowledge Proofs as I believe year 2023 going to be Zero Knowledge year.
 - 🌱 To bring next billion users into web3, Account Abstraction would play a big role and I am bullish and looking for to work with companies building on       Account Abstraction
