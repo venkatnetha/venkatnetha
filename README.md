@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on Solidity smart contracts in particular and Blockchain(Ethereum) in general. 
 - 🌱 I’m currently learning Zero Knowledge Proofs as I believe year 2023 going to be Zero Knowledge year.
+- 🌱 To bring next billion users into web3, Account Abstraction would play a big role and I am bullish and looking for to work with companies building on       Account Abstraction
 - 👯 I’m looking to collaborate on Solidity security and Zero Knowledge research.
 - 🤔 I’m looking for help with Zero Knowledge grants.
 - 💬 Ask me about --> Blokchain, Ethereum, Solidity, Zero Knowledge proofs, CAIRO, StarkNet, Rust.
