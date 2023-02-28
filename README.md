@@ -12,7 +12,7 @@
 - 💬 Ask me about --> Blokchain, Ethereum, Solidity, Zero Knowledge proofs, CAIRO, StarkNet, Rust.
 - 📫 How to reach me: venkatnetha@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am into software developement for the past 14 years and I seldom find a blockchain engineer with same experience. I feel pretty old but my neurons are still super active.
+- ⚡ Fun fact: I am into software developement for the past 10+ years and I seldom find a blockchain engineer with same experience. I feel pretty old but my neurons are still super active.
 
     
     
